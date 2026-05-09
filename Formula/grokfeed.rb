@@ -3,8 +3,8 @@ class Grokfeed < Formula
 
   desc "Hacker News + Reddit terminal feed viewer"
   homepage "https://github.com/emarkou/grokfeed"
-  url "https://github.com/emarkou/grokfeed/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "56fca21b721111e2b097466fa9dc26e678c3db168a91121b4cf8fb9c1825bdb2"
+  url "https://github.com/emarkou/grokfeed/archive/refs/tags/v0.6.1.tar.gz"
+  sha256 "3cf914c7920cdda9b346e1965790a4f2c615d336f4fdea6fe9b88032ccd990f8"
   license "MIT"
   head "https://github.com/emarkou/grokfeed.git", branch: "main"
 
