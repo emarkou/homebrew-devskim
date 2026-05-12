@@ -3,8 +3,8 @@ class Devskim < Formula
 
   desc "Hacker News + Reddit terminal feed viewer"
   homepage "https://github.com/emarkou/devskim"
-  url "https://github.com/emarkou/devskim/archive/refs/tags/v0.6.1.tar.gz"
-  sha256 "3cf914c7920cdda9b346e1965790a4f2c615d336f4fdea6fe9b88032ccd990f8"
+  url "https://github.com/emarkou/devskim/archive/refs/tags/v0.7.0.tar.gz"
+  sha256 "da27f6b6a55dfb63656ba1366af8b621d52e5642014c37dc20373c721164f851"
   license "MIT"
   head "https://github.com/emarkou/devskim.git", branch: "main"
 
